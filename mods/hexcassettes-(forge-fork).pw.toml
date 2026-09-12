@@ -1,0 +1,13 @@
+name = "Hexcassettes (Forge Fork)"
+filename = "Hexcassettes-forge-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wut8CbYY/versions/DCzX75fz/Hexcassettes-forge-1.1.5.jar"
+hash-format = "sha512"
+hash = "69f9ce503d7bbeaa5828ccac41d34a0fb64d5e7755cfd11fcc0008dcb18642f0a4a820fe7459038028993205eb997f42693df321b3fd68031160342b8ed93325"
+
+[update]
+[update.modrinth]
+mod-id = "wut8CbYY"
+version = "DCzX75fz"

@@ -1,0 +1,8 @@
+name = "lapisworks"
+filename = "lapisworks-1.5.8.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vcup/Lapisworks/releases/download/v1.5.8.7/lapisworks-1.5.8.7.jar"
+hash-format = "sha256"
+hash = "99c56cfebf3c8ea38db4bc975db63811fde79ed9809b53a4187ed83f6ac4eb73"

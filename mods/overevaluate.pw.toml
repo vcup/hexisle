@@ -1,0 +1,8 @@
+name = "overevaluate"
+filename = "overevaluate-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vcup/overevaluate/releases/download/v1.0.0/overevaluate-1.0.0.jar"
+hash-format = "sha256"
+hash = "0bdf699799c37826749d450062fe03b17a2ecdfeab8bce7430eb77822963ad9c"

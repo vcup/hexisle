@@ -1,0 +1,13 @@
+name = "XeKr redstone display"
+filename = "Redstone Display v3.2forMC1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d596ecf5d00d4e17260aa8795217cbe411911c52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4913733
+project-id = 310448
