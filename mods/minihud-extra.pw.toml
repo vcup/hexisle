@@ -1,0 +1,13 @@
+name = "MiniHUD Extra"
+filename = "MiniHUD-Extra-0.2.1-mc1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5TnrDyNM/versions/o9jVI9V1/MiniHUD-Extra-0.2.1-mc1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "bd4960f4a709b07ccfc9f2d4731c8b3d64fee8da72552d94158fd9724097b2347618f76a3a71ee393b00755bb8acbbce7a218922299ba7bc5a07b0f43a1b484d"
+
+[update]
+[update.modrinth]
+mod-id = "5TnrDyNM"
+version = "o9jVI9V1"

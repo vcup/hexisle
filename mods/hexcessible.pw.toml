@@ -1,0 +1,8 @@
+name = "hexcessible"
+filename = "hexcessible-neoforge-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vcup/hexcessible/releases/download/v0.5.0/hexcessible-neoforge-0.5.0.jar"
+hash-format = "sha256"
+hash = "7b3ee5e35cd5ac9954390c4db3fd9aaf7c8c01dccefbe7ca66d0e26c2745a6fd"

@@ -1,0 +1,13 @@
+name = "HexThings"
+filename = "hexthings-forge-0.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRBPvIjK/versions/IMUe79dz/hexthings-forge-0.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "965e2aa5ce486efbefbb00fa2f47cc817fcb4973604fe182d01de23ee0344e607e32ceb2d6ab0396bcc754fb1337c897ff7a8b7fca5efa3ecc902fc82ba0c8b8"
+
+[update]
+[update.modrinth]
+mod-id = "uRBPvIjK"
+version = "IMUe79dz"

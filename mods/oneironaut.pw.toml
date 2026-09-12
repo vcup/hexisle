@@ -1,0 +1,8 @@
+name = "oneironaut"
+filename = "oneironaut-neoforge-1.20.1-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vcup/oneironaut/releases/download/neoforge-1.20.1-0.5.0/oneironaut-neoforge-1.20.1-0.5.0.jar"
+hash-format = "sha256"
+hash = "31aff48cf34c41ec0eb17541eb85a09de914b982def3ad264dac03d17015730f"

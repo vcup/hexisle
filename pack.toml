@@ -1,0 +1,16 @@
+name = "hexisle"
+author = "vcup"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "55ea6745b01259a7784f4043301d794266a037a4ffba8257617d34e6e6ef4b7d"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
+
+[options]
+datapack-folder = "datapacks"

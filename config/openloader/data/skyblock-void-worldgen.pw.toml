@@ -1,0 +1,13 @@
+name = "Void Worldgen"
+filename = "skyvoid_worldgen_v1_0_5-MC_1_20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x7OPbYhr/versions/ib5G4hMZ/skyvoid_worldgen_v1_0_5-MC_1_20.zip"
+hash-format = "sha512"
+hash = "1f633acaecfabbb0d98f44a4a8990d2a2c73d6b201796adbf4c656c1d8119907cca94c9158c1d81ebe5843488ee6ae95bb4ff0ee1a9aebfececac40c0acd038a"
+
+[update]
+[update.modrinth]
+mod-id = "x7OPbYhr"
+version = "ib5G4hMZ"

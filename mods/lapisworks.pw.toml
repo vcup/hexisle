@@ -1,0 +1,8 @@
+name = "lapisworks"
+filename = "lapisworks-neoforge-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vcup/Lapisworks/releases/download/v.1.7.0/lapisworks-neoforge-1.7.0.jar"
+hash-format = "sha256"
+hash = "2750af3d0bad3b3348d24f8dbb88ef2beb5e6aa76f10ed859cd98ba390a12bbe"
