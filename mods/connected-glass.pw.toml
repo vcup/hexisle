@@ -1,0 +1,13 @@
+name = "Connected Glass"
+filename = "connectedglass-1.1.14-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DghO0R02/versions/YhmPPT1Q/connectedglass-1.1.14-fabric-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "bdb0e3d47639eab3e8ee463c1c04786c8ff9247f9ccdb4a7d040c07d99a2b3b40af8df72db8ded02297a8f1ecce6cb3f4a38625626de654490ec012f03397e5e"
+
+[update]
+[update.modrinth]
+mod-id = "DghO0R02"
+version = "YhmPPT1Q"

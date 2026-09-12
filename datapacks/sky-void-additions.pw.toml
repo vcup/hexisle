@@ -1,0 +1,13 @@
+name = "Sky Void Additions"
+filename = "skyvoid_additions_v1_1_6-MC_1_20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HlddKKKU/versions/2QHbtih8/skyvoid_additions_v1_1_6-MC_1_20.zip"
+hash-format = "sha512"
+hash = "37e5a592e32937c32bd35d7c513f2927b213bbfbfc63221126a87f93c2327f5915d594dbf5a1ec9de92bdb1eca859065624a0283bb798b5c642fea5917a03eef"
+
+[update]
+[update.modrinth]
+mod-id = "HlddKKKU"
+version = "2QHbtih8"

@@ -1,0 +1,13 @@
+name = "SkyBlock - Standard"
+filename = "skyvoid_standard_skyblock_v1_0_5-MC_1_20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbtyQ1Po/versions/flViwhX9/skyvoid_standard_skyblock_v1_0_5-MC_1_20.zip"
+hash-format = "sha512"
+hash = "4d1684d13e8e424b3371780f0f69595b8bbe3ae491f7cd2437eece0b811e150d406487753ec1ac9a068e298f4da0d7bb82549e4623bebfc35d1d077073b5e04e"
+
+[update]
+[update.modrinth]
+mod-id = "bbtyQ1Po"
+version = "flViwhX9"

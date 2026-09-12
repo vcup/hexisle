@@ -1,0 +1,13 @@
+name = "HexOverpowered"
+filename = "HexOverpowered-fabric-1.20.1-0.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PkhtCPsD/versions/rmyTjEDh/HexOverpowered-fabric-1.20.1-0.12.2.jar"
+hash-format = "sha512"
+hash = "89fba2a4dae39176fd7d415000d6fd0c2b1e3b76a5f61a822a9785db582003fd68a602ca9710b84c5f1c936360b9d6d3cc8c56671d710e7b20e794972b28b8a8"
+
+[update]
+[update.modrinth]
+mod-id = "PkhtCPsD"
+version = "rmyTjEDh"
