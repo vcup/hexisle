@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      "",
+      {
+        "text": "hexisle skyblock",
+        "color": "light_purple"
+      },
+      "\nby ",
+      {
+        "text": "vcup",
+        "color": "blue"
+      }
+    ],
+    "supported_formats": [
+      15,
+      41
+    ]
+  },
+  "id": "hexisle_skyblock",
+  "version": "0.0.1"
+}

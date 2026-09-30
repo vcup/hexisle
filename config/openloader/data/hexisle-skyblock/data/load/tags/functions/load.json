@@ -1,0 +1,6 @@
+{
+  "values": [
+    "#load:skyvoid_worldgen",
+    "#load:hexisle_skyblock"
+  ]
+}

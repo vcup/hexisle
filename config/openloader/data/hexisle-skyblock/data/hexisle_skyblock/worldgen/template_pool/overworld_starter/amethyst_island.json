@@ -1,0 +1,24 @@
+{
+    "name": "hexisle_skyblock:overworld_starter/amethyst_island",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "hexisle_skyblock:overworld_starter/amethyst_island_1",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "hexisle_skyblock:overworld_starter/starter_brige_amethyst",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}
