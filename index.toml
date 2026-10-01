@@ -5,6 +5,10 @@ file = "MODS.md"
 hash = "998cda12fdc055ba047a932756a85df0ca0ee22e5cbd1048737aefa943d3cc4b"
 
 [[files]]
+file = "config/hexcasting-client.toml"
+hash = "87ebd486f45fec0d257ef6baf6ddaeed7599c073be1e2d93bd5f2da77c19492d"
+
+[[files]]
 file = "config/openloader/data/hexisle-skyblock/README.md"
 hash = "844da3f8175f19bd17c1dbe0535036d773351a21d34552d68de8caddb628a8e5"
 
@@ -91,10 +95,6 @@ hash = "9d914c1567c60f39a230ce858449e29254d59d25fd74459543d48d01eaeff3b9"
 [[files]]
 file = "config/openloader/data/hexisle-skyblock/pack.mcmeta"
 hash = "4c41b5b57ebca0cf4bf0046aa46d45f4c79e422ad45c2d81e7dbe0fef6e8b62c"
-
-[[files]]
-file = "config/openloader/data/hexisle-skyblock/pack.png"
-hash = "94e1ad44e7129411820e160ea6d99d14ca890b9e47696d19db90c98925f12f53"
 
 [[files]]
 file = "config/openloader/data/skyblock-void-worldgen.pw.toml"
@@ -378,15 +378,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "8e9066219882825d46a80f11057be2eacde6245780b42c49b8c8c3cb3921c893"
+hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "d28a3f3e991a4d65cda9d18b37bc3672bc87f3e04aeeaf47b59d7e63581e3c3f"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "7801eaf07dee51314cdd4461d4aeaa671961cd5acc40df579805e22a535527a0"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true
