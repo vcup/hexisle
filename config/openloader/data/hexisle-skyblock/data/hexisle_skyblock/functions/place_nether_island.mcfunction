@@ -4,5 +4,5 @@
 # run from place_island
 
 forceload add ~ ~
-place jigsaw hexisle_skyblock:nether_island hexisle_skyblock:starter_island 1 ~ 64 ~
+place jigsaw hexisle_skyblock:nether_island skyvoid:starter_island 1 ~ 64 ~
 forceload remove ~ ~
