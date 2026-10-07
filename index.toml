@@ -18,7 +18,7 @@ hash = "cf5bb0f9c1dac3fb2f40d455c010c180b96a7fe3e9b595d3502971aa6e700d24"
 
 [[files]]
 file = "config/openloader/data/hexisle-skyblock/data/hexisle_skyblock/functions/place_nether_island.mcfunction"
-hash = "95da7689b1ce892c64da478d7ea36c1726ec9d6a153d602ca996fe29b3b8bd3f"
+hash = "f8191e6d147ab89087ebd0a60aa96491a9fb762267e16e83e80b93288c5a74e5"
 
 [[files]]
 file = "config/openloader/data/hexisle-skyblock/data/hexisle_skyblock/functions/versioning/resolve_load.mcfunction"

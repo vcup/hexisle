@@ -7,7 +7,8 @@ hexdebug (fabric/forge)
 hexparse ok
 hexflow ok
 hextweaks ok
-hexical (fabric) cap at 1.5.0(latest)
+hexical (fabric) cap at 1.5.0
+hexpose
 hexthings (fabric/forge)
 hexcassettes (fabric/forge fork)
 lapisworks
@@ -16,6 +17,11 @@ hexdim (fabric) cap at 1.3.0(latest)
 oneironaut
 hexconnect
 overevaluate
+#hierophantics
+#caduceus
+#hexexpose
+#hextend
+hex-spell-wheel (use fabric version)
 
 forgified-fabric-api (for hexconnect etc.)
 curios
@@ -55,7 +61,14 @@ ftb-teams
 ftb-quests
 ftbxaerocompat
 mafglib (malilib)
-inventory-tweaks-refoxed
+```
+
+qol
+```
+stack-refill
+mouse-tweaks
+inventory-essentials
+balm # for inventory-essentials
 ```
 
 serve

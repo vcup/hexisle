@@ -1,0 +1,13 @@
+name = "Hexpose"
+filename = "hexpose-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VWvaiZqR/versions/GQmltZO5/hexpose-3.0.0.jar"
+hash-format = "sha512"
+hash = "b873b5a260b00145115f94973baa7390a35fde4ffa1ce1b24af7008a94f7bada83536b594df05372c0ed139cb5f003ef076578007defeba1396192784dc996fa"
+
+[update]
+[update.modrinth]
+mod-id = "VWvaiZqR"
+version = "GQmltZO5"
